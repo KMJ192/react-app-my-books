@@ -1,11 +1,10 @@
 import React from 'react'
+import SigninContainer from '../containers/SigninContainer'
 
 function Signin() {
     return (
-        <div>
-            
-        </div>
-    )
+        <SigninContainer/>        
+    );
 }
 
 export default Signin

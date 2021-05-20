@@ -4,3 +4,7 @@
  - React : cra (typescript)
  - react-router-dom
  - react-error-boundary
+ - redux react-redux redux-saga redux-devtools-extension redux-actions
+ - @types/react-redux @types/redux-actions
+ - antd
+ - @ant-design/icons
