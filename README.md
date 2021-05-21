@@ -8,3 +8,5 @@
  - @types/react-redux @types/redux-actions
  - antd
  - @ant-design/icons
+ - axios
+ - connected-react-router
